@@ -1,5 +1,5 @@
 1. Introduction
-2. Description of physical problem you want to simmulate
+2. Description of physical problem you want to simulate
 3. Aim and scope of the project
 4. Techniques and approach
 5. Results 
