@@ -1,0 +1,18 @@
+psi0 
+Dephasing is the same but the popullations are different.
+
+
+
+pis1
+same as psi0
+
+psi2
+Decays slower for sigmax.
+
+psiI
+psi 2 story and the popullations are different. 
+
+psiI2
+completly different. 
+Imaginary and real are zero for sigma x. 
+And populations are also different
